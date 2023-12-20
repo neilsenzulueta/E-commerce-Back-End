@@ -3,7 +3,7 @@ Module 13 Challenge: Object-Relational Mapping(ORM)
 
 ## Description 
 
-My goal for this challenge was to build the back end for an e-commerce site.  I will be working with Express.js API and configuring it to use Sequelize to interact with a MySQL databse. The starter code was provided by UC Davis coding bootcamp.
+My goal for this challenge was to build the back end for an e-commerce site.  I will be working with Express.js API and configuring it to use Sequelize to interact with a MySQL database. The starter code was provided by UC Davis coding bootcamp.
 
 ## Table of Contents
 
